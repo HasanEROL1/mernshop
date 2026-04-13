@@ -1,0 +1,111 @@
+@import "tailwindcss";
+
+
+
+@layer components {
+  @media (max-width: 700px) {
+    .res {
+      width: 150% !important;
+      display: flex !important;
+      ;
+      flex-direction: row !important;
+      align-items: center !important;
+      justify-content: center !important;
+      gap: 8px !important;
+      margin-left: 36px !important;
+
+      padding: 8px !important;
+
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1), 0 1px 2px rgba(0, 0, 0, 0.06) !important;
+
+
+    }
+
+    .res img {
+      width: 48px !important;
+      height: 48px !important;
+    }
+
+    .res button {
+      padding: 2px 4px !important;
+      font-size: 12px !important;
+    }
+
+    .res svg {
+      width: 16px !important;
+      height: 16px !important;
+    }
+
+  }
+
+  /* header*/
+  .nav-link {
+    @apply hover:text-zinc-800 transition-colors cursor-pointer;
+  }
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: #f59e0b !important;
+  font-size: 30px !important;
+  opacity: 0.8;
+  transition: opacity 0.3s;
+}
+
+.slick-prev:hover:before,
+.slick-next:hover:before {
+  opacity: 1;
+}
+
+.slick-prev {
+  left: 20px !important;
+  z-index: 10;
+}
+
+.slick-next {
+  right: 25px !important;
+  z-index: 10;
+}
+
+.slick-dots li.slick-active button:before {
+  color: #f59e0b !important;
+}
+
+/* scroolu kaldır */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  /* Internet Explorer için */
+  scrollbar-width: none;
+  /* Firefox için */
+}
+
+
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+.admin-form-container {
+  @apply bg-white rounded-[2.5rem] p-8 md:p-10 shadow-2xl shadow-gray-200/50 border-gray-100 max-w-4xl mx-auto my-8
+}
+
+.admin-input-label {
+  @apply text-[10px] font-black text-gray-400 ml-2 uppercase tracking-[0.15em] mb-1
+}
+
+.admin-input {
+  @apply w-full px-5 py-3.5 bg-gray-50 border-2 border-transparent rounded-2xl focus:ring-0 focus:border-orange-500 focus:bg-white outline-none transition-all duration-300 text-gray-700 font-medium placeholder:text-gray-300;
+}
+
+
+.admin-submit-btn {
+  @apply w-fit px-2 bg-linear-to-r from-orange-500 to-orange-600 text-white py-3 rounded-2xl font-black text-lg shadow-lg shadow-orange-200 hover:shadow-orange-400 hover:-translate-y-1 active:scale-95 transition-all duration-300 uppercase tracking-wider mt-4 cursor-pointer;
+}

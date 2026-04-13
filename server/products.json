@@ -1,0 +1,362 @@
+[
+    {
+        "name": "Kablosuz Kulaklık",
+        "description": "Gürültü engelleyici özellikli, 40 saat pil ömürlü kulaklık.",
+        "price": 2500,
+        "stock": 20,
+        "category": "Elektronik",
+        "rating": 4.8,
+        "images": [
+            {
+                "public_id": "img_01",
+                "url": "https://picsum.photos/seed/kulaklik/400/400"
+            }
+        ],
+        "reviews": []
+    },
+    {
+        "name": "Mekanik Klavye",
+        "description": "Blue switch, RGB aydınlatmalı oyuncu klavyesi.",
+        "price": 1800,
+        "stock": 15,
+        "category": "Elektronik",
+        "rating": 4.5,
+        "images": [
+            {
+                "public_id": "img_02",
+                "url": "https://picsum.photos/seed/klavye/400/400"
+            }
+        ],
+        "reviews": []
+    },
+    {
+        "name": "Sos Tavası",
+        "description": "Granit Sos Tava Kırmızı 12 cm yanmaz yapışmaz özelliği ile soslarınızı yapıp yiyeceklere dökebilrsiniz",
+        "price": 500,
+        "stock": 20,
+        "category": "Ev&Yaşam",
+        "rating": 3.8,
+        "images": [
+            {
+                "public_id": "tava_1",
+                "url": "/images/sos-tava.jpg"
+            }
+        ],
+        "reviews": []
+    },
+    {
+        "name": "Ağlayan Bebek",
+        "description": "Müzik çalabilen, biberonla su verilip kafasını sıkınca gözyaşı akan bebek.",
+        "price": 400,
+        "stock": 5,
+        "category": "Ev&Yaşam",
+        "rating": 3.2,
+        "images": [
+            {
+                "public_id": "crybaby",
+                "url": "/images/crybaby.jpg"
+            }
+        ],
+        "reviews": []
+    },
+    {
+        "name": "Laptop Pro 16",
+        "description": "Intel i7, 16GB RAM, SSD depolama ile yüksek performans.",
+        "price": 40000,
+        "stock": 3,
+        "category": "Elektronik",
+        "rating": 4.2,
+        "images": [
+            {
+                "public_id": "laptop",
+                "url": "/images/laptop.jpg"
+            }
+        ],
+        "reviews": []
+    },
+    {
+        "name": "Oyuncu Mouse",
+        "description": "16000 DPI, ultra hafif kablolu oyuncu mouse.",
+        "price": 1200,
+        "stock": 25,
+        "category": "Elektronik",
+        "rating": 4.7,
+        "images": [
+            {
+                "public_id": "img_03",
+                "url": "https://picsum.photos/seed/mouse/400/400"
+            }
+        ],
+        "reviews": []
+    },
+    {
+        "name": "Bluetooth Hoparlör",
+        "description": "Suya dayanıklı, 360 derece ses veren taşınabilir hoparlör.",
+        "price": 1500,
+        "stock": 30,
+        "category": "Elektronik",
+        "rating": 4.3,
+        "images": [
+            {
+                "public_id": "img_05",
+                "url": "https://picsum.photos/seed/hoparlor/400/400"
+            }
+        ],
+        "reviews": []
+    },
+    {
+        "name": "Akıllı Saat Pro X",
+        "description": "Nabız ölçer, uyku takibi, 7 gün pil.",
+        "price": 3200,
+        "stock": 18,
+        "category": "Elektronik",
+        "rating": 4.6,
+        "images": [
+            {
+                "public_id": "watch",
+                "url": "https://picsum.photos/seed/watch/400/400"
+            }
+        ],
+        "reviews": []
+    },
+    {
+        "name": "Gaming Kulaklık RGB",
+        "description": "7.1 surround, mikrofonlu.",
+        "price": 1350,
+        "stock": 22,
+        "category": "Elektronik",
+        "rating": 4.4,
+        "images": [
+            {
+                "public_id": "headset",
+                "url": "https://picsum.photos/seed/headset/400/400"
+            }
+        ],
+        "reviews": []
+    },
+    {
+        "name": "Airfryer 5L",
+        "description": "Yağsız pişirme, geniş hazne.",
+        "price": 4200,
+        "stock": 10,
+        "category": "Ev&Yaşam",
+        "rating": 4.7,
+        "images": [
+            {
+                "public_id": "airfryer",
+                "url": "https://picsum.photos/seed/airfryer/400/400"
+            }
+        ],
+        "reviews": []
+    },
+    {
+        "name": "Ofis Sandalyesi",
+        "description": "Ergonomik bel destekli.",
+        "price": 2800,
+        "stock": 12,
+        "category": "Ev&Yaşam",
+        "rating": 4.3,
+        "images": [
+            {
+                "public_id": "chair",
+                "url": "https://picsum.photos/seed/chair/400/400"
+            }
+        ],
+        "reviews": []
+    },
+    {
+        "name": "Oyuncu Monitör 144Hz",
+        "description": "Full HD, hızlı tepki süresi.",
+        "price": 5500,
+        "stock": 8,
+        "category": "Elektronik",
+        "rating": 4.8,
+        "images": [
+            {
+                "public_id": "monitor",
+                "url": "https://picsum.photos/seed/monitor/400/400"
+            }
+        ],
+        "reviews": []
+    },
+    {
+        "name": "Powerbank 20000mAh",
+        "description": "Hızlı şarj destekli.",
+        "price": 900,
+        "stock": 30,
+        "category": "Elektronik",
+        "rating": 4.5,
+        "images": [
+            {
+                "public_id": "powerbank",
+                "url": "https://picsum.photos/seed/powerbank/400/400"
+            }
+        ],
+        "reviews": []
+    },
+    {
+        "name": "Koşu Ayakkabısı",
+        "description": "Hafif ve rahat spor ayakkabı.",
+        "price": 2100,
+        "stock": 16,
+        "category": "Giyim",
+        "rating": 4.2,
+        "images": [
+            {
+                "public_id": "shoe",
+                "url": "https://picsum.photos/seed/shoes/400/400"
+            }
+        ],
+        "reviews": []
+    },
+    {
+        "name": "LED Masa Lambası",
+        "description": "3 modlu, dokunmatik.",
+        "price": 650,
+        "stock": 20,
+        "category": "Ev&Yaşam",
+        "rating": 4.1,
+        "images": [
+            {
+                "public_id": "lamp",
+                "url": "https://picsum.photos/seed/lamp/400/400"
+            }
+        ],
+        "reviews": []
+    },
+    {
+        "name": "Şampuan",
+        "description": "Kepeği önleyici, saç dökülmesini azaltıcı şampuan.",
+        "price": 200,
+        "stock": 203,
+        "category": "Kişisel Bakım",
+        "rating": 4.1,
+        "images": [
+            {
+                "public_id": "shampoo",
+                "url": "https://picsum.photos/seed/shampoo/400/400"
+            }
+        ],
+        "reviews": []
+    },
+    {
+        "name": "Spor Tayt",
+        "description": "Nefes alan kumaş, yüksek bel, dört yönlü esnek spor taytı.",
+        "price": 450,
+        "stock": 40,
+        "category": "Giyim",
+        "rating": 4.3,
+        "images": [
+            {
+                "public_id": "tayt",
+                "url": "https://picsum.photos/seed/tayt/400/400"
+            }
+        ],
+        "reviews": []
+    },
+    {
+        "name": "Oversize Hoodie",
+        "description": "Unisex, %100 pamuk, kapüşonlu sweatshirt.",
+        "price": 850,
+        "stock": 35,
+        "category": "Giyim",
+        "rating": 4.6,
+        "images": [
+            {
+                "public_id": "hoodie",
+                "url": "https://picsum.photos/seed/hoodie/400/400"
+            }
+        ],
+        "reviews": []
+    },
+    {
+        "name": "Deri Cüzdan",
+        "description": "İnce tasarım, RFID korumalı hakiki deri cüzdan.",
+        "price": 600,
+        "stock": 28,
+        "category": "Giyim",
+        "rating": 4.4,
+        "images": [
+            {
+                "public_id": "wallet",
+                "url": "https://picsum.photos/seed/wallet/400/400"
+            }
+        ],
+        "reviews": []
+    },
+    {
+        "name": "Yüz Temizleme Jeli",
+        "description": "Karma ciltler için günlük yüz temizleme jeli, parfümsüz.",
+        "price": 180,
+        "stock": 90,
+        "category": "Kişisel Bakım",
+        "rating": 4.3,
+        "images": [
+            {
+                "public_id": "facegel",
+                "url": "https://picsum.photos/seed/facegel/400/400"
+            }
+        ],
+        "reviews": []
+    },
+    {
+        "name": "Elektrikli Diş Fırçası",
+        "description": "5 mod, 2 dakika zamanlayıcı, şarjlı.",
+        "price": 1100,
+        "stock": 15,
+        "category": "Kişisel Bakım",
+        "rating": 4.7,
+        "images": [
+            {
+                "public_id": "toothbrush",
+                "url": "https://picsum.photos/seed/toothbrush/400/400"
+            }
+        ],
+        "reviews": []
+    },
+    {
+        "name": "Saç Kurutma Makinesi",
+        "description": "2200W, iyonlu teknoloji, 3 ısı ayarı.",
+        "price": 750,
+        "stock": 22,
+        "category": "Kişisel Bakım",
+        "rating": 4.2,
+        "images": [
+            {
+                "public_id": "hairdryer",
+                "url": "https://picsum.photos/seed/hairdryer/400/400"
+            }
+        ],
+        "reviews": []
+    },
+    {
+        "name": "Nevresim Takımı",
+        "description": "King size, %100 pamuk, antialerjik nevresim takımı.",
+        "price": 1200,
+        "stock": 18,
+        "category": "Ev&Yaşam",
+        "rating": 4.5,
+        "images": [
+            {
+                "public_id": "bedset",
+                "url": "https://picsum.photos/seed/bedset/400/400"
+            }
+        ],
+        "reviews": []
+    },
+    {
+        "name": "Kahve Makinesi",
+        "description": "Kapsüllü, tek tuşla espresso ve americano.",
+        "price": 3500,
+        "stock": 9,
+        "category": "Ev&Yaşam",
+        "rating": 4.6,
+        "images": [
+            {
+                "public_id": "coffee",
+                "url": "https://picsum.photos/seed/coffee/400/400"
+            }
+        ],
+        "reviews": []
+    }
+]
