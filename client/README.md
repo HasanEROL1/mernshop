@@ -2,7 +2,7 @@
 
 Modern ve responsive bir e-ticaret uygulaması. MERN stack ile geliştirilmiştir.
 
-![Demo](client/src/mernshop.gif)
+![Demo](mernshop.gif)
 
 ## 🚀 Özellikler
 
