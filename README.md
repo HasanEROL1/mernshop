@@ -71,8 +71,11 @@ FRONTEND_URL=
 
 **Hasan Erol**
 [GitHub](https://github.com/HasanEROL1)
+
 ---
 ## 📫 Bana Ulaşın
 
-[![LinkedIn](www.linkedin.com/in/hasan-erol-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-erol-dev)
+
+
 
